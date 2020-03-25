@@ -1,7 +1,7 @@
 Dynamic-Scheduler-with-Production-Schedule
 This version with SA and incorporate the production schedule
 
-Dynamic-Scheduling-SA Prof.Xiaoning Jin, Prof.Kamarthi, PhD student: Anqi He, Mengkai Xu
+Dynamic-Scheduling-SA Prof.Xiaoning Jin, Prof.Kamarthi, PhD student: Mengkai Xu, Anqi He
 
 This is a preliminary demo of the dynamic scheduler for test implementation. There are six Matlab function files (MATLAB code) in the folder. One sample data file : 'path.mat', and five Matlab functions: 'MainFunction.m', 'CostRate.m', 'sim_anl.m', 'mu_inv.m', 'MapVariables.m', 'RiskFunc.m'. Per the discussion with PDX and FORCAM, Current format displays the countdown time To (Order placement) and Tm (Maintenance performance), a vector contains the risk for to the current time and orward, a vector contains the risk corresponding to each order in the production shcedule.
 
